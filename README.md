@@ -5,8 +5,6 @@
 I am happy to meet new friends
 
 ## 📫 Reach me
-- Steam: [电脑初哥](https://steamcommunity.com/profiles/76561198974052149)
-- BiliBili: [电脑初哥](https://space.bilibili.com/231019106)
 - Email: [xhrzg2017@gmail.com](mailto:xhrzg2017@gmail.com)
 
 
