@@ -1,5 +1,4 @@
-![](https://github-readme-stats-amber-eta.vercel.app/api?username=xhrzg2017&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,c94b4b,4b134f)  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xhrzg2017&repo=tg_hot_news&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,c94b4b,4b134f)](https://github.com/xhrzg2017/tg_hot_news)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhrzg2017&repo=ProxiesActions&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,c94b4b,4b134f)](https://github.com/xhrzg2017/ProxiesActions)
 
 ## 👋 Hi there 
 I am happy to meet new friends
