@@ -1,4 +1,6 @@
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xhrzg2017&repo=ProxiesActions&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,c94b4b,4b134f)](https://github.com/xhrzg2017/ProxiesActions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhrzg2017&repo=ProxiesActions)](https://github.com/xhrzg2017/ProxiesActions)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhrzg2017&show_icons=true&theme=tokyonight)
 
 ## 👋 Hi there 
 I am happy to meet new friends
