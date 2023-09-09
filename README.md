@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhrzg2017&repo=ProxiesActions)](https://github.com/xhrzg2017/ProxiesActions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhrzg2017&repo=listes)](https://github.com/xhrzg2017/listes)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhrzg2017&show_icons=true&theme=tokyonight)
 
